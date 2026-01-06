@@ -1,0 +1,4 @@
+- [x] Add hamburger button to nav in index.html
+- [x] Update styles.css for hamburger icon and mobile menu styles
+- [x] Update script.js to toggle mobile menu
+- [x] Test mobile menu functionality
